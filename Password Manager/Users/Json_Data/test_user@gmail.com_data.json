@@ -1,0 +1,7 @@
+{
+    "test_app": {
+        "email": "test_user@gmail.com",
+        "password": "test_pass",
+        "comment": ""
+    }
+}
