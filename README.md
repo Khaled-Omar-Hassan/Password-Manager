@@ -24,10 +24,10 @@ Before running the application, ensure you have the necessary dependencies insta
 
 ```bash
 # Clone the repository
-git clone <repository_url>
+git clone https://github.com/Khaled-Omar-Hassan/Password-Manager.git
 
 # Change to the repository directory
-cd <repository_directory>
+cd Password-Manager
 
 # Install required packages
 pip install -r requirements.txt
